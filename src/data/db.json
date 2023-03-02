@@ -1,0 +1,64 @@
+{
+  "Cidades":[{
+  "id": 1,
+  "cid_nome": "Offenbach",
+  "cid_estado": "SP",
+  "created_at": "2022-03-08T19:57:04Z",
+  "updated_at": null
+}, {
+  "id": 2,
+  "cid_nome": "Guandu",
+  "cid_estado": "RJ",
+  "created_at": "2022-05-25T22:02:41Z",
+  "updated_at": "2022-10-26T00:16:58Z"
+}, {
+  "id": 3,
+  "cid_nome": "Cové",
+  "cid_estado": "SC",
+  "created_at": "2022-06-12T18:38:55Z",
+  "updated_at": null
+}, {
+  "id": 4,
+  "cid_nome": "‘Anjarah",
+  "cid_estado": "PR",
+  "created_at": "2022-08-31T14:00:56Z",
+  "updated_at": "2023-02-08T10:51:40Z"
+}, {
+  "id": 5,
+  "cid_nome": "Dongkeng",
+  "cid_estado": "RS",
+  "created_at": "2023-01-16T09:36:24Z",
+  "updated_at": "2023-01-27T11:09:02Z"
+}, {
+  "id": 6,
+  "cid_nome": "Villa Las Rosas",
+  "cid_estado": "TO",
+  "created_at": "2022-06-06T21:26:10Z",
+  "updated_at": "2022-08-20T12:53:33Z"
+}, {
+  "id": 7,
+  "cid_nome": "Meishan",
+  "cid_estado": "CE",
+  "created_at": "2022-07-08T11:27:53Z",
+  "updated_at": "2023-02-26T19:31:39Z"
+}, {
+  "id": 8,
+  "cid_nome": "Thala",
+  "cid_estado": "MT",
+  "created_at": "2022-06-09T02:44:39Z",
+  "updated_at": null
+}, {
+  "id": 9,
+  "cid_nome": "Póvoa de Santo António",
+  "cid_estado": "MS",
+  "created_at": "2022-11-30T21:58:46Z",
+  "updated_at": null
+}, {
+  "id": 10,
+  "cid_nome": "La Puerta de San José",
+  "cid_estado": "SP",
+  "created_at": "2022-12-12T04:27:02Z",
+  "updated_at": null
+}]
+
+}
